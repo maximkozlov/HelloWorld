@@ -7451,10 +7451,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\_Crypto\\Arbitrage\\Arbitrage\\Arbitrage.csproj",
+      "projectUniqueName": "C:\\Users\\maxim.kozlov\\Source\\Repos\\HelloWorld\\Arbitrage\\Arbitrage\\Arbitrage.csproj",
       "projectName": "Arbitrage",
-      "projectPath": "E:\\Projects\\_Crypto\\Arbitrage\\Arbitrage\\Arbitrage.csproj",
-      "outputPath": "E:\\Projects\\_Crypto\\Arbitrage\\Arbitrage\\obj\\",
+      "projectPath": "C:\\Users\\maxim.kozlov\\Source\\Repos\\HelloWorld\\Arbitrage\\Arbitrage\\Arbitrage.csproj",
+      "outputPath": "C:\\Users\\maxim.kozlov\\Source\\Repos\\HelloWorld\\Arbitrage\\Arbitrage\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
