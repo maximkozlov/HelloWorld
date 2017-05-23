@@ -1,0 +1,9 @@
+E:\Projects\_Crypto\Arbitrage\Arbitrage\bin\Debug\netcoreapp1.1\Arbitrage.deps.json
+E:\Projects\_Crypto\Arbitrage\Arbitrage\bin\Debug\netcoreapp1.1\Arbitrage.runtimeconfig.json
+E:\Projects\_Crypto\Arbitrage\Arbitrage\bin\Debug\netcoreapp1.1\Arbitrage.runtimeconfig.dev.json
+E:\Projects\_Crypto\Arbitrage\Arbitrage\bin\Debug\netcoreapp1.1\Arbitrage.dll
+E:\Projects\_Crypto\Arbitrage\Arbitrage\bin\Debug\netcoreapp1.1\Arbitrage.pdb
+E:\Projects\_Crypto\Arbitrage\Arbitrage\obj\Debug\netcoreapp1.1\Arbitrage.csprojResolveAssemblyReference.cache
+E:\Projects\_Crypto\Arbitrage\Arbitrage\obj\Debug\netcoreapp1.1\Arbitrage.AssemblyInfo.cs
+E:\Projects\_Crypto\Arbitrage\Arbitrage\obj\Debug\netcoreapp1.1\Arbitrage.dll
+E:\Projects\_Crypto\Arbitrage\Arbitrage\obj\Debug\netcoreapp1.1\Arbitrage.pdb
